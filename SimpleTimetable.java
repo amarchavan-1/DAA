@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 public class SimpleTimetable {
     static int N, R;
     static boolean[][] conflict;   
