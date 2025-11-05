@@ -1,3 +1,10 @@
+// Name:Amar Vaijinath Chavan
+// PRN: 124B2F001
+
+// Assignment Description
+// Delivery route optimization  apply the branch and bound algorithm to determine the lesay cost delivery across citites
+
+
 import java.util.Arrays;
 
 public class TSP {
